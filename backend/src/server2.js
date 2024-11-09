@@ -1,1 +1,1 @@
-console.log("Server 2 + Conflict");
+console.log("Server 2 + Rebase");
