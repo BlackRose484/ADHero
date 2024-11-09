@@ -1,1 +1,1 @@
-console.log("Server 8 test merge");
+console.log("Server 8 test rebase");
